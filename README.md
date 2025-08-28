@@ -1,3 +1,4 @@
+Hosted on : https://smart-budget-tracker-jirp5m2q2-gauravkhatri0611s-projects.vercel.app/
 # Smart Budget Tracker
 
 A JavaScript project that helps users track expenses and manage their budget effectively.
